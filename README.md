@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Turan Sözcü</h1>
-<h3 align="center">I'm a 4th year student at university. I am developing myself in web and mobile areas.</h3>
+<h3 align="center">I'm a newly graduated person. I am developing myself frontend and backend areas.</h3>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **TypeScript and React Native**
+- 🔭 I’m currently working on **Frontend and Backend Development**
 
 - 📫 How to reach me **ahmedturansozcu@gmail.com**
 
